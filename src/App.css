@@ -128,7 +128,9 @@
     flex-direction: column;
     gap: 10px;
 }
-
+h2{
+    margin: 20px;
+}
 .card img {
     width: 100%;
     border-radius: 8px;
